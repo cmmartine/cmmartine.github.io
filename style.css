@@ -165,6 +165,7 @@
 .icon-link {
   text-decoration: none;
   margin-right: 10px;
+  color: white;
 }
 
 .header-link:visited {
